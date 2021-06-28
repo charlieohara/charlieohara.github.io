@@ -2,7 +2,7 @@
 title: "Pathological Effects of Local Disjunction"
 collection: publications
 permalink: /publication/2016-pathological-effects-of-local-disjunction
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2016
 venue: 'Supplemental Proceedings of the 2014 Annual Meeting on Phonology'
 paperurl: 'http://charlieohara.github.io/files/oharaphonologyproceedings.pdf'
