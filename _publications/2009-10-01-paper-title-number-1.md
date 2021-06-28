@@ -3,7 +3,7 @@ title: "Pathological Effects of Local Disjunction"
 collection: publications
 permalink: /publication/2016-pathological-effects-of-local-disjunction
 excerpt: 'test'
-date: 2016
+date: 2016-01-01
 venue: 'Supplemental Proceedings of the 2014 Annual Meeting on Phonology'
 paperurl: 'http://charlieohara.github.io/files/oharaphonologyproceedings.pdf'
 citation: "O'Hara, Charlie. (2016). &quot;Pathological Effects of Local Disjunction.&quot; In Albright, Adam and Michelle A. Fullwood (eds.), <i>Supplemental Proceedings of the 2014 Annual Meeting on Phonology</i>. Washington, DC: Linguistic Society of America. 10 pp."
