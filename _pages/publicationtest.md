@@ -5,13 +5,13 @@ permalink: /publicationtest/
 author_profile: true
 ---
 
-**Journal Articles**
-1. submitted. [Caitlin Smith](https://caitlinsmith14.github.io) and Charlie O'Hara. Learning Derivationally Opaque Patterns in the Gestural Harmony Model.
-1. resubmitted. Emergent Learning Bias and the underattestation of simple patterns.
-1. 2017, [How Abstract is More Abstract: Learning Abstract Underlying Representations](https://www.cambridge.org/core/journals/phonology/article/how-abstract-is-more-abstract-learning-abstract-underlying-representations/BC4D70D95018D3812C4BFECD480BF794), *[Phonology](https://www.cambridge.org/core/journals/phonology) 34.2* pp. 325-345. [preprint](https://charlieohara.github.io/files/phonologyabstractURsREVISION.pdf)
+# Journal Articles
+1. **submitted**. [Caitlin Smith](https://caitlinsmith14.github.io) and Charlie O'Hara. Learning Derivationally Opaque Patterns in the Gestural Harmony Model.
+1. **resubmitted**. Emergent Learning Bias and the underattestation of simple patterns.
+1. **2017**, [How Abstract is More Abstract: Learning Abstract Underlying Representations](https://www.cambridge.org/core/journals/phonology/article/how-abstract-is-more-abstract-learning-abstract-underlying-representations/BC4D70D95018D3812C4BFECD480BF794), *[Phonology](https://www.cambridge.org/core/journals/phonology) 34.2* pp. 325-345. [preprint](https://charlieohara.github.io/files/phonologyabstractURsREVISION.pdf)
 
 
-**Conference Proceedings**
+# Conference Proceedings
 1. **2021**, Caitlin Smith, Charlie O’Hara, Eric Rosen, and Paul Smolensky. Emergent Gestural Scores in a Recurrent Neural Network Model of Vowel Harmony. In the *Proceedings of the Society for Computation in Linguistics*. 10pp (refereed)
 1. **2021**, Caitlin Smith, Charlie O’Hara. Learnability of derivationally opaque processes in the Gestural Harmony Model. In the *Proceedings of the Society for Computation in Linguistics*. 5pp [Extended Abstract]
 1. **2020**, Language-Specific Factors Influence Learnability: Case Study from Contour Tone Licensing. In The *Proceedings of the 50th Meeting of the North East Linguistics Society*.
