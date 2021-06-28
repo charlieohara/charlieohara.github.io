@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publicationtest/
 author_profile: true
 ---
+(publications without authors listed are single authored.)
 
 # Journal Articles
 1. **submitted**. [Caitlin Smith](https://caitlinsmith14.github.io) and Charlie O'Hara. Learning Derivationally Opaque Patterns in the Gestural Harmony Model.
@@ -12,13 +13,13 @@ author_profile: true
 
 
 # Conference Proceedings
-1. **2021**, Caitlin Smith, Charlie O’Hara, Eric Rosen, and Paul Smolensky. Emergent Gestural Scores in a Recurrent Neural Network Model of Vowel Harmony. In the *Proceedings of the Society for Computation in Linguistics*. 10pp (refereed)
-1. **2021**, Caitlin Smith, Charlie O’Hara. Learnability of derivationally opaque processes in the Gestural Harmony Model. In the *Proceedings of the Society for Computation in Linguistics*. 5pp [Extended Abstract]
+1. **2021**, [Caitlin Smith](https://caitlinsmith14.github.io), Charlie O’Hara, Eric Rosen, and [Paul Smolensky](https://www.microsoft.com/en-us/research/people/psmo/). Emergent Gestural Scores in a Recurrent Neural Network Model of Vowel Harmony. In the *Proceedings of the Society for Computation in Linguistics*. 10pp (refereed)
+1. **2021**, [Caitlin Smith](https://caitlinsmith14.github.io), Charlie O’Hara. Learnability of derivationally opaque processes in the Gestural Harmony Model. In the *Proceedings of the Society for Computation in Linguistics*. 5pp [Extended Abstract]
 1. **2020**, Language-Specific Factors Influence Learnability: Case Study from Contour Tone Licensing. In The *Proceedings of the 50th Meeting of the North East Linguistics Society*.
 1. **2020**, Frequency Matching Behavior in On-Line MaxEnt Learners. Abstract in the *Proceedings of the Society for Computation in Linguistics 2020*.
-1. **2019**, Andrew Lamont, Charlie O'Hara, and Caitlin Smith. Weakly deterministic transformations are subregular. In *SIGMORPHON 2019: Proceedings of the 16th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology*. 10 pp. (refereed).
-2. **2019**, Charlie O'Hara and Caitlin Smith. Computational Complexity of Sour-Grapes-Like Patterns. In the *Proceedings of the Annual Meeting on Phonology 2018*. 11 pp.
-3. **2019**, Caitlin Smith and Charlie O'Hara. Formal Characterizations of True and False Sour Grapes. Extended Abstract in the *Proceedings of the Society for Computation in Linguistics 2019*.
+1. **2019**, [Andrew Lamont](https://aphonologist.github.io/), Charlie O'Hara, and [Caitlin Smith](https://caitlinsmith14.github.io). Weakly deterministic transformations are subregular. In *SIGMORPHON 2019: Proceedings of the 16th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology*. 10 pp. (refereed).
+2. **2019**, Charlie O'Hara and [Caitlin Smith](https://caitlinsmith14.github.io). Computational Complexity of Sour-Grapes-Like Patterns. In the *Proceedings of the Annual Meeting on Phonology 2018*. 11 pp.
+3. **2019**, [Caitlin Smith](https://caitlinsmith14.github.io) and Charlie O'Hara. Formal Characterizations of True and False Sour Grapes. Extended Abstract in the *Proceedings of the Society for Computation in Linguistics 2019*.
 4. **2019**, Place and Position Are Computationally Different. Extended Abstract in the *Proceedings of the Society for Computation in Linguistics 2019*.
 5. **2018**, Hilary Clinton is not Mitt Romney rich: Nouns modifying degree and dimension of adjectives. In *The Proceedings of Sinn Und Bedeutung 21*. 18 pp. 
 6. **2017**, Sonority Based Stress in Harmonic Grammar: Nontransitive Conflation in Phonological Hierarchies, In Jessica Kantarovich, Tran Truong, and Orest Xherija (eds.) *Proceedings of the Fifty-Second Annual Meeting of the Chicago Linguistic Society*. 375-390
