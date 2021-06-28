@@ -25,5 +25,5 @@ author_profile: true
 6. **2017**, Sonority Based Stress in Harmonic Grammar: Nontransitive Conflation in Phonological Hierarchies, In Jessica Kantarovich, Tran Truong, and Orest Xherija (eds.) *Proceedings of the Fifty-Second Annual Meeting of the Chicago Linguistic Society*. 375-390
 7. **2017**, Nouns Attributively Modifying Adjectives in English, In Aaron Kaplan, Abby Kaplan, Miranda K. McCarvel, and Edward J. Rubin (eds.) *The Proceedings of the West Coast Conference on Formal Linguistics 34*, pp. 404-412. Somerville, MA: Cascadilla Proceedings Project.
 8. **2016**, Harmony in Harmonic Grammar by Reevaluating Faithfulness, In Christopher Hammerly and Brandon Prickett (eds.), *NELS 46: The Proceedings of the 46th Meeting of the North East Linguistics Society. Vol. 3*. pp. 71-84
-9. **2016**, Positionally Abstract Underlying Representations in Klamath, In *The Proceedings of the Chicago Linguistics Society 51*, pp. 397–411.
+9. **2016**, [Positionally Abstract Underlying Representations in Klamath](https://charlieohara.github.io/files/CLS51_OHara.pdf), In *The Proceedings of the Chicago Linguistics Society 51*, pp. 397–411.
 10. **2016**, Pathological Effects of Local Disjunction, In Albright, Adam and Michelle A. Fullwood (eds.), *Supplemental Proceedings of the 2014 Annual Meeting on Phonology*. Washington, DC: Linguistic Society of America. 10 pp.
