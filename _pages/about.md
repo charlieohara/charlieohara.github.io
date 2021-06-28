@@ -23,7 +23,6 @@ My Research Interests
    * Typological differences between Optimality Theory and Harmonic Grammar.  <details> <summary> Expand</summary>
  Within the last decade or so, many phonologists have begun recognizing some of the merits of using weighted constraints rather than ranked constraints. With this conversion, many of the constraints used in OT can have surprising interactions that can be troublesome or beneficial. (See [Sonority Based Stress in Harmonic Grammar] and Harmony in Harmonic Grammar by Reevaluating Faithfulness) </details>
    * Mathematical approaches to phonology  <details> <summary> Expand</summary>
-  
 With Caitlin Smith, I have been investigating how the computational complexity of feature spreading patterns; showing the existence of a sub-regular class of mappings that includes all attested feature spreading patterns, but not some unattested but regular mappings, like sour grapes. See our SCIL 2019 extended abstract.</details>
 * The Klamath language, a recently extinct language from Southern Oregon 
 * Semantics
