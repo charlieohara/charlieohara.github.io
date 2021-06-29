@@ -34,8 +34,8 @@ author_profile: true
 1. **2016,** Nouns Attributively Modifying Adjectives in English, Poster at WCCFL34. Salt Lake City, UT. Apr 30, 2016. [refereed] [Data Sources](charlieohara.github.io/files/posterbib.pdf)
 1. **2016,** [Sonority Based Stress in Harmonic Grammar: Nontransitive Conflation in Phonological Hierarchies](charlieohara.github.io/files/cls2016talk.pdf), Talk at CLS 52. Chicago, IL. Apr 22, 2016. [refereed]
 1. **2016,** [Harmony in Harmonic Grammar by Reevaluating Faithfulness](charlieohara.github.io/files/lsa2016talk.pdf), Talk at LSA 2016. Washington DC. Jan 9, 2016. [refereed]
-1. **2015,** Harmony in Harmonic Grammar by Reevaluating Faithfulness, Talk at NELS 46. Montréal, Québec. Oct 17, 2015. Abstract [refereed] (For slides see an updated version in the LSA talk above.)
+1. **2015,** Harmony in Harmonic Grammar by Reevaluating Faithfulness, Talk at NELS 46. Montréal, Québec. Oct 17, 2015. [refereed] (For slides see an updated version in the LSA talk above.)
 1. **2015,** [Never Surfacing Underlying Representations in Klamath](charlieohara.github.io/files/CLStalk.pdf), Talk at CLS 51. Chicago, IL. April 25, 2015. [refereed] 
 1. **2015,** [Vowel Raising and Positional Privilege in Klamath](charlieohara.github.io/files/ocppost.pdf), Poster at OCP12. Barcelona, Spain. Jan 29, 2015. [refereed]  [References](charlieohara.github.io/files/constraintsused.pdf)
 1. **2015,** [Vowel Raising and Positional Privilege in Klamath](charlieohara.github.io/files/SSILAtalkedit.pdf), Talk at SSILA 2015. Portland, OR. Jan 11, 2015. [refereed] 
-1. **2014,** [Pathological Effects of Local Disjunction](charlieohara.github.io/files/disjunctpost1.pdf), Poster presented at Phonology 2014. Cambridge, MA. Sept 20, 2014. [refereed]  References
+1. **2014,** [Pathological Effects of Local Disjunction](charlieohara.github.io/files/disjunctpost1.pdf), Poster presented at Phonology 2014. Cambridge, MA. Sept 20, 2014. [refereed] 
