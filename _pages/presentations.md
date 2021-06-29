@@ -28,7 +28,7 @@ author_profile: true
 14. **2018,** [Soft Typology of Coda Place of Articulation Distributions Requires Synchronic Constraints](charlieohara.github.io/files/channelbiasOSU.pdf), Talk at Workshop on the Emergence of Universals. Columbus, OH. Feb 19, 2018.
 1. **2018,** [Learnability Captures Soft Typology of Coda Stop Inventories](charlieohara.github.io/files/lsa2018rev.pdf), Talk at LSA 2018. Salt Lake City. Jan 6 2018. [refereed]
 1. **2017,** Hard to learn languages are hard to find: A finer look at factorial typology, Invited lecture in Linguistics 401: Undergraduate Advanced Phonology, USC. Oct 16, 2017.
-1. **2017,** Soft typology arises from learning bias even with markedness hierarchies, Poster at AMP 2017. NYU. Sep 15, 2017. [refereed] [abstract]
+1. **2017,** [Soft typology arises from learning bias even with markedness hierarchies](charlieohara.github.io/files/amp2017), Poster at AMP 2017. NYU. Sep 15, 2017. [refereed] [abstract]
 1. **2017,** Interactions of learnability and phonological grammar drive the typology of coda stop inventories, Talk at the Southern California Annual Meeting on Phonology. University of California, Los Angeles. May 6, 2017
 1. **2016,** [Hillary Clinton is not Mitt Romney rich: Nouns modifying degree and dimension of adjectives](charlieohara.github.io/files/subhandout.pdf), Talk at Sinn und Bedeutung 21. Edinburgh. Sep 4, 2016.
 1. **2016,** Nouns Attributively Modifying Adjectives in English, Poster at WCCFL34. Salt Lake City, UT. Apr 30, 2016. [refereed] [Data Sources](charlieohara.github.io/files/posterbib.pdf)
