@@ -1,15 +1,27 @@
 ---
 layout: archive
 title: "Additional Application Materials"
-permalink: /publicationtest/
-author_profile: true
+permalink: /additionalmaterials/
+author_profile: false
 ---
-(publications without authors listed are single authored.)
+This page is meant as part of a job application, please do not share the link publicly.
+
+Here you may find links to pdfs for my CV,  manuscripts currently under consideration, and contains research and diversity statements, along with a teaching statement, evaluations from my time as a lecturer at UMichigan, and sample syllabi. 
+
+Last updated: 11/12/21
+# Application Materials
+- [CV](https://charlieohara.github.io/files/CVohara.pdf)
+- [Research Statment](https://charlieohara.github.io/files/oharaRS.pdf)
+- [Diversity Statement](https://charlieohara.github.io/files/oharaDS.pdf)
+- [Teaching Statement](https://charlieohara.github.io/files/oharaTS.pdf)
+- [Teaching Evaluations (UMich Winter 2021)](https://charlieohara.github.io/files/oharaEvals.pdf)
+- [Syllabus for Human Language and Computers](https://charlieohara.github.io/files/oharaComputersSyllabus.pdf)
+
 
 # Journal Articles
-1. **in revision**. [Caitlin Smith](https://caitlinsmith14.github.io) and Charlie O'Hara. Learning Derivationally Opaque Patterns in the Gestural Harmony Model.
-1. **resubmitted**. Emergent Learning Bias and the underattestation of simple patterns.
-1. **2017**, [How Abstract is More Abstract: Learning Abstract Underlying Representations](https://www.cambridge.org/core/journals/phonology/article/how-abstract-is-more-abstract-learning-abstract-underlying-representations/BC4D70D95018D3812C4BFECD480BF794), *[Phonology](https://www.cambridge.org/core/journals/phonology) 34.2* pp. 325-345. [preprint](https://charlieohara.github.io/files/phonologyabstractURsREVISION.pdf)
+1. **in revision**. [Caitlin Smith](https://caitlinsmith14.github.io) and Charlie O'Hara. [Learning Derivationally Opaque Patterns in the Gestural Harmony Model](https://charlieohara.github.io/files/smithoharainrevision21).
+1. **resubmitted**. [Emergent Learning Bias and the underattestation of simple patterns](https://charlieohara.github.io/files/oharanlltinreview21.pdf).
+1. **2017**, [How Abstract is More Abstract: Learning Abstract Underlying Representations](https://charlieohara.github.io/files/Oharahowabstract2017.pdf), *[Phonology](https://www.cambridge.org/core/journals/phonology) 34.2* pp. 325-345. [preprint](https://charlieohara.github.io/files/phonologyabstractURsREVISION.pdf)
 
 
 # Conference Proceedings
