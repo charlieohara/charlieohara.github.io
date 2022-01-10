@@ -19,12 +19,13 @@ Last updated: 11/12/21
 
 
 # Journal Articles
-1. **in revision**. [Caitlin Smith](https://caitlinsmith14.github.io) and Charlie O'Hara. [Learning Derivationally Opaque Patterns in the Gestural Harmony Model](https://charlieohara.github.io/files/smithoharainrevision21).
-1. **resubmitted**. [Emergent Learning Bias and the underattestation of simple patterns](https://charlieohara.github.io/files/oharanlltinreview21.pdf).
+1. **in revision**. [Caitlin Smith](https://caitlinsmith14.github.io) and Charlie O'Hara. [Learning Derivationally Opaque Patterns in the Gestural Harmony Model](https://charlieohara.github.io/files/smithoharainrevision21.pdf).
+1. **resubmitted**. [Emergent Learning Bias and the underattestation of simple patterns](https://charlieohara.github.io/files/OHARAnlltinreview21.pdf).
 1. **2017**, [How Abstract is More Abstract: Learning Abstract Underlying Representations](https://charlieohara.github.io/files/Oharahowabstract2017.pdf), *[Phonology](https://www.cambridge.org/core/journals/phonology) 34.2* pp. 325-345. [preprint](https://charlieohara.github.io/files/phonologyabstractURsREVISION.pdf)
 
 
 # Conference Proceedings
+1. **in press**, Charlie O'Hara. [MaxEnt Learners are Biased Against Giving Probability to Harmonically Bounded Candidates](https://charlieohara.github.io/files/oharascil22.pdf), In the *Proceedings of the Society for Computation in Linguistics*. 6pp [Extended Abstract]. 
 1. **2021**, [Caitlin Smith](https://caitlinsmith14.github.io), Charlie O’Hara, Eric Rosen, and [Paul Smolensky](https://www.microsoft.com/en-us/research/people/psmo/). [Emergent Gestural Scores in a Recurrent Neural Network Model of Vowel Harmony](https://charlieohara.github.io/files/smithetal_scil2021_paper.pdf). In the *Proceedings of the Society for Computation in Linguistics*. 10pp (refereed)
 1. **2021**, [Caitlin Smith](https://caitlinsmith14.github.io), Charlie O’Hara. [Learnability of derivationally opaque processes in the Gestural Harmony Model](https://charlieohara.github.io/files/smithohara_scil2021_paper.pdf). In the *Proceedings of the Society for Computation in Linguistics*. 5pp [Extended Abstract]
 1. **2020**, [Language-Specific Factors Influence Learnability: Case Study from Contour Tone Licensing](https://charlieohara.github.io/files/oharaNELS20 (1).pdf). In The *Proceedings of the 50th Meeting of the North East Linguistics Society*.
