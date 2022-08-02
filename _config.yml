@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Charlie O'Hara"
   avatar           : "profile.png"
-  bio              : "Lecturer at the University of Michigan, doing research on phonology"
-  location         : "University of Michigan"
+  bio              : "Compuational Linguist"
+  location         : "Chicago"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=M8t_bN0AAAAJ"
-  email            : "cohara@umich.edu"
+  email            : "charlieoharaphd@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

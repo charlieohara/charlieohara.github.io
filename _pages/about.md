@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recieved my PhD in Linguistics from the University of Southern California in 2021. My dissertation is entitled "Soft Biases in Phonology: Learnability meets grammar". My work focuses on using computational and mathematical methods to understand how the process of learning phonological structure influences the likelihood of certain structures appearing in the languages of the world. Particularly, my work is on the ways learning can gradiently affect typology, and on the development of algorithms to learn underlying representations. Currently, I am a Lecturer in the department of Linguistics at the University of Michigan. 
+I recieved my PhD in Linguistics from the University of Southern California in 2021. My dissertation is entitled "Soft Biases in Phonology: Learnability meets grammar". My work focuses on using computational and mathematical methods to understand how the process of learning phonological structure influences the likelihood of certain structures appearing in the languages of the world. Particularly, my work is on the ways learning can gradiently affect typology, and on the development of algorithms to learn underlying representations. From Winter 2021 to Summer 2022, I was a Lecturer in the department of Linguistics at the University of Michigan. 
 
 My Research Interests
 ======
@@ -24,6 +24,7 @@ My Research Interests
  Within the last decade or so, many phonologists have begun recognizing some of the merits of using weighted constraints rather than ranked constraints. With this conversion, many of the constraints used in OT can have surprising interactions that can be troublesome or beneficial. (See [Sonority Based Stress in Harmonic Grammar] and Harmony in Harmonic Grammar by Reevaluating Faithfulness) </details>
    * Mathematical approaches to phonology  <details> <summary> Expand</summary>
 With Caitlin Smith, I have been investigating how the computational complexity of feature spreading patterns; showing the existence of a sub-regular class of mappings that includes all attested feature spreading patterns, but not some unattested but regular mappings, like sour grapes. See our SCIL 2019 extended abstract.</details>
+* Ethics of Large Language Models and AI approaches to language.
 * The Klamath language, a recently extinct language from Southern Oregon 
 * Semantics
   * Nouns modifying adjectives in English Hillary Clinton is rich, but not Mitt Romney rich. (See Nouns Attributively Modifying Adjectives in English and  Hilary Clinton is not Mitt Romney rich)
