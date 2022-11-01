@@ -8,12 +8,13 @@ author_profile: true
 
 # Journal Articles
 1. **in revision**. [Caitlin Smith](https://caitlinsmith14.github.io) and Charlie O'Hara. Learning Derivationally Opaque Patterns in the Gestural Harmony Model.
-1. **resubmitted**. Emergent Learning Bias and the underattestation of simple patterns.
+1. **accepted**. Emergent Learning Bias and the underattestation of simple patterns.
 1. **2017**, [How Abstract is More Abstract: Learning Abstract Underlying Representations](https://www.cambridge.org/core/journals/phonology/article/how-abstract-is-more-abstract-learning-abstract-underlying-representations/BC4D70D95018D3812C4BFECD480BF794), *[Phonology](https://www.cambridge.org/core/journals/phonology) 34.2* pp. 325-345. [preprint](https://charlieohara.github.io/files/phonologyabstractURsREVISION.pdf)
 
 
 # Conference Proceedings
-1. **in press**, Charlie O'Hara. [MaxEnt Learners are Biased Against Giving Probability to Harmonically Bounded Candidates](https://charlieohara.github.io/files/oharascil22.pdf), In the *Proceedings of the Society for Computation in Linguistics*. 6pp [Extended Abstract]. 
+1. **in press**, Charlie O'Hara and [Caitlin Smith](https://caitlinsmith14.github.io). [Typological Asymmetries in Underapplication Opacity: A Gestural Account](https://charlieohara.github.io/files/oharasmithwccfl.pdf), In the *Proceedings of the West Coast Conference on Formal Linguistics 40*, 10pps. 
+1. **2022**, Charlie O'Hara. [MaxEnt Learners are Biased Against Giving Probability to Harmonically Bounded Candidates](https://charlieohara.github.io/files/oharascil22.pdf), In the *Proceedings of the Society for Computation in Linguistics*. 6pp [Extended Abstract]. 
 1. **2021**, [Caitlin Smith](https://caitlinsmith14.github.io), Charlie O’Hara, Eric Rosen, and [Paul Smolensky](https://www.microsoft.com/en-us/research/people/psmo/). [Emergent Gestural Scores in a Recurrent Neural Network Model of Vowel Harmony](https://charlieohara.github.io/files/smithetal_scil2021_paper.pdf). In the *Proceedings of the Society for Computation in Linguistics*. 10pp (refereed)
 1. **2021**, [Caitlin Smith](https://caitlinsmith14.github.io), Charlie O’Hara. [Learnability of derivationally opaque processes in the Gestural Harmony Model](https://charlieohara.github.io/files/smithohara_scil2021_paper.pdf). In the *Proceedings of the Society for Computation in Linguistics*. 5pp [Extended Abstract]
 1. **2020**, [Language-Specific Factors Influence Learnability: Case Study from Contour Tone Licensing](https://charlieohara.github.io/files/oharaNELS20 (1).pdf). In The *Proceedings of the 50th Meeting of the North East Linguistics Society*.
